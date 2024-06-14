@@ -1,0 +1,21 @@
+{
+  "name": "pepe-theme",
+  "displayName": "Pepe Theme",
+  "description": "random guy's theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pepe Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pepe Theme-color-theme.json"
+      }
+    ]
+  }
+}
